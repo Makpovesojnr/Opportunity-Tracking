@@ -3,7 +3,7 @@
 **Author:** Akpoveso Maryrose  
 **Date:** May 2025  
 **Project Type:** B2B Revenue & Sales Funnel Analysis  
-**Tools Used:** [Excel & Tableau]
+**Tools Used:** Excel & Tableau
 
 ---
 
