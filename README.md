@@ -111,7 +111,7 @@ The analysis was conducted using funnel visualizations, column charts, scatterpl
 
 - [Opportunity Tracking Report](docs/Opportunity Tracking Report.pdf)
    Full report detailing methodology, analysis, insights, and recommendations.
-- [Opportunity tracking Dashboard] (docs/Opportunity tracking Dashboard.pdf)
+- [Opportunity tracking Dashboard](docs/Opportunity tracking Dashboard.pdf)
   Power BI dashboard visualizing the sales funnel, partner breakdowns, and segment performance.
 - [Opportunity Tracking raw dataset](raw/Opportunity Tracking raw.xlsx)
 
